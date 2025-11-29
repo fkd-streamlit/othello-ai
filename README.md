@@ -86,9 +86,9 @@ AI の強さは 3 段階です：
 を Streamlit のボタンで表示します。
 
 例：
-<img width="702" height="806" alt="image" src="https://github.com/user-attachments/assets/59d7c70c-264c-436e-911d-15e0a23749c7" />
+#<img width="702" height="806" alt="image" src="https://github.com/user-attachments/assets/59d7c70c-264c-436e-911d-15e0a23749c7" />#
 
 🙌 著者
 
 Created by 福田雅彦
-GitHub: 
+GitHub: https://github.com/fkd-streamlit/othello-ai
