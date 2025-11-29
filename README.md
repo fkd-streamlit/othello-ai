@@ -11,11 +11,7 @@ AI と対戦できるシンプルな **オセロ（リバーシ）ゲーム** �
 
 ## 📺 デモ（動作版）
 
-（※ 公開URLがあればここに貼ってください）
-
-➡︎ https://〇〇〇〇.streamlit.app/
-
----
+https://othello-ai.streamlit.app/
 
 ## 📌 主な特徴
 
